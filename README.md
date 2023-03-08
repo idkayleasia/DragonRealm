@@ -1,3 +1,3 @@
 # DragonRealm
 
-this is here because you gay
+this is here 
