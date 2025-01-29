@@ -1,6 +1,6 @@
 # Ayleasia
-- 👋 Hi, I’m @idkayleasia
+- 👋 Hi, I’m Maria Gist
 - 👀 I’m currently a Computer Science Student 
-- 🌱 Currently interested in data mining
-- 💞️
+
+
 
